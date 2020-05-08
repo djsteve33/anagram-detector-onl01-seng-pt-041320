@@ -7,6 +7,7 @@ class Anagram
   end
   
   def match(word_arr)
-    word_arr.select
+    word_arr.select do |word|
+      
   end
 end
